@@ -1,8 +1,16 @@
-Front End App - Monsters Rolodex
+# Monsters Rolodex
 
-See how is it: https://davisantosr.github.io/react-monsters-rolodex/
+See how is the application: https://davisantosr.github.io/react-monsters-rolodex/
 
+The application is a Front End Web page that allows the user to search any monsters available
 
+## Tech
+[React](https://reactjs.org/)
 
-Source. Made following the Andrei Neagoie's Complete React Developer course.
+## Contributing :earth_americas:
+Pull requests are welcome. 
+
+## Source :computer:
+- Code made following the Andrei Neagoie's Complete React Developer course.
+
 
